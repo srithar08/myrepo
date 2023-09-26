@@ -1,7 +1,8 @@
-<<<<<<< Updated upstream
 this is sample1 edit file
 edited by srithar.
-=======
-this is sample1 edit file.
 this is srithar.
->>>>>>> Stashed changes
+
+
+hi I'm srithar.
+i add some extra lines
+
